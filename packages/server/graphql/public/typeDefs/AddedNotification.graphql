@@ -1,0 +1,6 @@
+type AddedNotification {
+  """
+  A notification
+  """
+  addedNotification: Notification!
+}

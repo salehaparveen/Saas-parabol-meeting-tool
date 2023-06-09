@@ -1,0 +1,17 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["*"],
+      "static/*": ["../../static/*"]
+    },
+    "outDir": "lib",
+    "lib": ["esnext", "dom"],
+    "types": ["node"]
+  },
+  "files": [
+    "client.tsx",
+  ],
+  "exclude": ["serviceWorker", "**/node_modules"]
+}
