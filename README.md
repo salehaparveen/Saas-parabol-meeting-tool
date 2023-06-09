@@ -1,7 +1,3 @@
-# Parabol - We're [hiring](https://www.parabol.co/join)!
-
-[![CircleCI](https://circleci.com/gh/ParabolInc/parabol.svg?style=svg)](https://circleci.com/gh/ParabolInc/parabol)
-
 ## Overview
 
 [Parabol](https://www.parabol.co) is an open-source application for running
@@ -75,39 +71,3 @@ $ yarn dev
 ```bash
 $ yarn && yarn build && yarn start
 ```
-
-- [How to Ship](./docs/deployment.md)
-
-## Getting Involved
-
-Parabol offers equity for qualified contributions.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information on how to
-get involved and how to get compensated.
-
-## Have feedback, ideas or feature requests?
-
-Please review our [Discussions](https://github.com/ParabolInc/parabol/discussions) to see if there's already a similar suggestion, and if not please feel free to [start a new one](https://github.com/ParabolInc/parabol/discussions/new).
-
-## Releases
-
-For details on all releases, refer to [CHANGELOG.md](./CHANGELOG.md).
-
-## Parabol Core Team
-
-- [Jordan Husney](https://github.com/jordanh)
-- [Terry Acker](https://github.com/ackernaut)
-- [Matt Krick](https://github.com/mattkrick)
-
-## Parabol Maintainers
-
-- [Matt Krick](https://github.com/mattkrick)
-- [Georg Bremer](https://github.com/Dschoordsch)
-
-## License
-
-Copyright (c) 2016-present, Parabol, Inc.
-
-This codebase is dual-licensed under the GNU AFFERO GENERAL PUBLIC LICENSE,
-Version 3.0 while holding, at Parabol's sole discretion, the right to create
-new licenses. For details please read [LICENSE](LICENSE).
